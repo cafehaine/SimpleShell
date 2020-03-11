@@ -1,0 +1,4 @@
+Shell KEYWORD1
+begin KEYWORD2
+registerCommand KEYWORD2
+handleEvent KEYWORD2
